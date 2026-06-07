@@ -1,0 +1,9 @@
+{
+  "_comment": "Spider TV emergency fallback config. Loaded when Firebase Remote Config is unreachable. The 'spider' key holds the live values — anything outside it is ignored.",
+  "spider": {
+    "hosts": [
+      "http://tornado-pro.com"
+    ],
+    "store_url": "http://google.com"
+  }
+}
