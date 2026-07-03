@@ -5,7 +5,7 @@
   "rebrands": {
     "tornadotvadm2": {
       "platform": "quick4k",
-      "version": 2,
+      "version": 3,
       "rc": {
         "encrypted_string": {
           "applicationUrl": {
