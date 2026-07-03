@@ -5,7 +5,7 @@
   "rebrands": {
     "tornadotvadm2": {
       "platform": "quick4k",
-      "version": 3,
+      "version": 4,
       "rc": {
         "encrypted_string": {
           "applicationUrl": {
@@ -18,7 +18,7 @@
                 "country": "",
                 "userpassServers": [
                   {
-                    "host": "https://android.tornado-pro.xyz/iptv/v6/API-V6APK.php"
+                    "host": "http://android.tornado-pro.xyz/iptv/v6/API-V6APK.php"
                   }
                 ],
                 "codeServers": [],
@@ -44,8 +44,8 @@
         },
         "encrypted_string_domains": [
           {
-            "dom": "https://android.tornado-pro.xyz/iptv/v6/API-V6APK.php",
-            "url": "https://android.tornado-pro.xyz/iptv/v6/API-V6APK.php",
+            "dom": "http://android.tornado-pro.xyz/iptv/v6/API-V6APK.php",
+            "url": "http://android.tornado-pro.xyz/iptv/v6/API-V6APK.php",
             "userAgent": "Mozilla/5.0 (Linux; Android 12; SM) AppleWebKit/537.36"
           }
         ],
