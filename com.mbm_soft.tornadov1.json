@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "schema_version": 1
+  },
+  "rebrands": {
+    "tornadov18": {
+      "platform": "5g",
+      "version": 1,
+      "rc": {
+        "activity": "https://android.tornado-pro.xyz/iptv/v6/API-V6APK.php",
+        "next_emergency_url": "https://xtream.plus/api/v1/cms/app/emerg/com.mbm_soft.tornadov1.json"
+      }
+    }
+  }
+}
