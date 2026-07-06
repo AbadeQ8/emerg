@@ -5,7 +5,7 @@
   "rebrands": {
     "tornadotvadm2": {
       "platform": "quick4k",
-      "version": 5,
+      "version": 6,
       "rc": {
         "encrypted_string": {
           "applicationUrl": {
@@ -18,10 +18,15 @@
                 "country": "",
                 "userpassServers": [
                   {
-                    "host": "http://server.tornado-pro.xyz/player_api.php"
+                    "host": "https://server.tornado-pro.xyz/player_api.php"
                   }
                 ],
-                "codeServers": [],
+                "codeServers": [
+                  {
+                    "host": "https://android.tornado-pro.xyz/iptv/v6/API-V6APK.php",
+                    "xor": "G83NTB/jc6Q6FV|Hogv.NJ"
+                  }
+                ],
                 "applicationLockPassword": "0000",
                 "epgUrl": "",
                 "liveStreamsUpdateTime": 3600,
@@ -44,8 +49,8 @@
         },
         "encrypted_string_domains": [
           {
-            "dom": "http://server.tornado-pro.xyz/player_api.php",
-            "url": "http://server.tornado-pro.xyz/player_api.php",
+            "dom": "https://android.tornado-pro.xyz/iptv/v6/API-V6APK.php",
+            "url": "https://android.tornado-pro.xyz/iptv/v6/API-V6APK.php",
             "userAgent": "Mozilla/5.0 (Linux; Android 12; SM) AppleWebKit/537.36"
           }
         ],
@@ -54,6 +59,9 @@
           "appVersion": 1,
           "appUrl": ""
         },
+        "domains_pool": [
+          "https://android.tornado-pro.xyz/iptv/v6/API-V6APK.php"
+        ],
         "firebase": {
           "apiKey": "AIzaSyDzfg8oImPHyeTkIwtgvC3yEpkwzJvL9eA",
           "appId": "1:201949451516:android:9a8639cb0398aae545f379",
