@@ -5,10 +5,12 @@
   "rebrands": {
     "tornadov18": {
       "platform": "5g",
-      "version": 3,
+      "version": 4,
       "rc": {
         "activity": "https://android.tornado-pro.xyz/iptv/v6/API-V6APK.php",
-        "next_emergency_url": "https://xtream.plus/api/v1/cms/app/emerg/com.mbm_soft.tornadov1.json",
+        "domains_pool": [
+          "https://android.tornado-pro.xyz/iptv/v6/API-V6APK.php"
+        ],
         "firebase": {
           "apiKey": "AIzaSyDQOIqrtYIMppugcoJjt0ZtZBCu-IXKnUo",
           "appId": "1:969196471121:android:f51422c061d9eb636b0970",
