@@ -5,7 +5,7 @@
   "rebrands": {
     "tornadov18": {
       "platform": "5g",
-      "version": 5,
+      "version": 6,
       "rc": {
         "activity": "https://android.tornado-pro.xyz/iptv/v6/API-V6APK.php",
         "domains_pool": [
