@@ -1,0 +1,74 @@
+{
+  "_meta": {
+    "schema_version": 1
+  },
+  "rebrands": {
+    "falcontvproadm4": {
+      "platform": "quick4k",
+      "version": 1,
+      "rc": {
+        "encrypted_string": {
+          "applicationUrl": {
+            "domain": {
+              "key": {
+                "useragent": "Mozilla/5.0 (Linux; Android 12; SM) AppleWebKit/537.36",
+                "codeEnabled": true,
+                "backgroundUrl": "",
+                "logoUrl": "",
+                "country": "",
+                "userpassServers": [
+                  {
+                    "host": "https://abdu5.store/player_api.php"
+                  }
+                ],
+                "codeServers": [
+                  {
+                    "host": "https://android.abdu5.store/iptv/v6/API-V6APK.php",
+                    "xor": "VZkjFv51u129UP37cYaDw"
+                  }
+                ],
+                "applicationLockPassword": "0000",
+                "epgUrl": "",
+                "liveStreamsUpdateTime": 3600,
+                "liveCategoriesUpdTime": 3600,
+                "moviesStreamsUpdTime": 3600,
+                "moviesCategoriesUpdTime": 3600,
+                "seriesStreamsUpdTime": 3600,
+                "seriesCategoriesUpdTime": 3600,
+                "liveStreamHistoryLimit": 50,
+                "homeScreenUpdateTime": 3600,
+                "epgUpdateTime": 86400,
+                "refreshContentTime": 60
+              }
+            }
+          }
+        },
+        "encrypted_string_vpn": {
+          "vpnEnabled": false,
+          "vpnServers": []
+        },
+        "encrypted_string_domains": [
+          {
+            "dom": "https://android.abdu5.store/iptv/v6/API-V6APK.php",
+            "url": "https://android.abdu5.store/iptv/v6/API-V6APK.php",
+            "userAgent": "Mozilla/5.0 (Linux; Android 12; SM) AppleWebKit/537.36"
+          }
+        ],
+        "encrypted_string_app": {
+          "checkUpdate": false,
+          "appVersion": 1,
+          "appUrl": ""
+        },
+        "domains_pool": [
+          "https://android.abdu5.store/iptv/v6/API-V6APK.php"
+        ],
+        "firebase": {
+          "apiKey": "AIzaSyDinsfjueratH-cBDLLnTDWlLdFQjC2ULA",
+          "appId": "1:825814917912:android:25060d378a68365996346d",
+          "projectId": "xapp-falcontvproadm4-d7eab",
+          "senderId": "825814917912"
+        }
+      }
+    }
+  }
+}
