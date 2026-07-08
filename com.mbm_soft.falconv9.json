@@ -5,7 +5,7 @@
   "rebrands": {
     "falcontvproadm4": {
       "platform": "quick4k",
-      "version": 2,
+      "version": 3,
       "rc": {
         "encrypted_string": {
           "applicationUrl": {
@@ -18,12 +18,12 @@
                 "country": "",
                 "userpassServers": [
                   {
-                    "host": "https://abdu5.store/player_api.php"
+                    "host": "http://abdu5.store:80/player_api.php"
                   }
                 ],
                 "codeServers": [
                   {
-                    "host": "https://android.abdu5.store/iptv/v6/API-V6APK.php",
+                    "host": "http://android.abdu5.store:80/iptv/v6/API-V6APK.php",
                     "xor": "VZkjFv51u129UP37cYaDw"
                   }
                 ],
@@ -49,8 +49,8 @@
         },
         "encrypted_string_domains": [
           {
-            "dom": "https://android.abdu5.store/iptv/v6/API-V6APK.php",
-            "url": "https://android.abdu5.store/iptv/v6/API-V6APK.php",
+            "dom": "http://android.abdu5.store:80/iptv/v6/API-V6APK.php",
+            "url": "http://android.abdu5.store:80/iptv/v6/API-V6APK.php",
             "userAgent": "Mozilla/5.0 (Linux; Android 12; SM) AppleWebKit/537.36"
           }
         ],
@@ -60,7 +60,7 @@
           "appUrl": ""
         },
         "domains_pool": [
-          "https://android.abdu5.store/iptv/v6/API-V6APK.php"
+          "http://android.abdu5.store:80/iptv/v6/API-V6APK.php"
         ],
         "firebase": {
           "apiKey": "AIzaSyDinsfjueratH-cBDLLnTDWlLdFQjC2ULA",
