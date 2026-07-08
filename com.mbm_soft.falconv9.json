@@ -5,7 +5,7 @@
   "rebrands": {
     "falcontvproadm4": {
       "platform": "quick4k",
-      "version": 4,
+      "version": 5,
       "rc": {
         "encrypted_string": {
           "applicationUrl": {
@@ -23,7 +23,7 @@
                 ],
                 "codeServers": [
                   {
-                    "host": "http://android.abdu5.store:80/iptv/v6/API-V6APK.php",
+                    "host": "http://android.abdu5.store:80/iptv/V6APK/API-V6APK.php",
                     "xor": "VZkjFv51u129UP37cYaDw"
                   }
                 ],
@@ -49,8 +49,8 @@
         },
         "encrypted_string_domains": [
           {
-            "dom": "http://android.abdu5.store:80/iptv/v6/API-V6APK.php",
-            "url": "http://android.abdu5.store:80/iptv/v6/API-V6APK.php",
+            "dom": "http://android.abdu5.store:80/iptv/V6APK/API-V6APK.php",
+            "url": "http://android.abdu5.store:80/iptv/V6APK/API-V6APK.php",
             "userAgent": "Mozilla/5.0 (Linux; Android 12; SM) AppleWebKit/537.36"
           }
         ],
@@ -60,7 +60,7 @@
           "appUrl": ""
         },
         "domains_pool": [
-          "http://android.abdu5.store:80/iptv/v6/API-V6APK.php"
+          "http://android.abdu5.store:80/iptv/V6APK/API-V6APK.php"
         ],
         "firebase": {
           "apiKey": "AIzaSyDinsfjueratH-cBDLLnTDWlLdFQjC2ULA",
