@@ -5,43 +5,38 @@
   "rebrands": {
     "falcontvproadm4": {
       "platform": "quick4k",
-      "version": 8,
+      "version": 9,
       "rc": {
         "encrypted_string": {
-          "applicationUrl": {
-            "domain": {
-              "key": {
-                "useragent": "Mozilla/5.0 (Linux; Android 12; SM) AppleWebKit/537.36",
-                "codeEnabled": true,
-                "backgroundUrl": "",
-                "logoUrl": "",
-                "country": "",
-                "userpassServers": [
-                  {
-                    "host": "http://abdu5.store:80/player_api.php"
-                  }
-                ],
-                "codeServers": [
-                  {
-                    "host": "http://android.abdu5.store:80/iptv/V6APK/API-V6APK.php",
-                    "xor": "VZkjFv51u129UP37cYaDw"
-                  }
-                ],
-                "applicationLockPassword": "0000",
-                "epgUrl": "",
-                "liveStreamsUpdateTime": 3600,
-                "liveCategoriesUpdTime": 3600,
-                "moviesStreamsUpdTime": 3600,
-                "moviesCategoriesUpdTime": 3600,
-                "seriesStreamsUpdTime": 3600,
-                "seriesCategoriesUpdTime": 3600,
-                "liveStreamHistoryLimit": 50,
-                "homeScreenUpdateTime": 3600,
-                "epgUpdateTime": 86400,
-                "refreshContentTime": 60
-              }
+          "useragent": "Mozilla/5.0 (Linux; Android 12; SM) AppleWebKit/537.36",
+          "codeEnabled": true,
+          "backgroundUrl": "",
+          "logoUrl": "",
+          "country": "",
+          "userpassServers": [
+            {
+              "host": "http://abdu5.store:80/player_api.php"
             }
-          }
+          ],
+          "codeServers": [
+            {
+              "host": "http://android.abdu5.store:80/iptv/V6APK/API-V6APK.php",
+              "xor": "VZkjFv51u129UP37cYaDw"
+            }
+          ],
+          "applicationLockPassword": "0000",
+          "epgUrl": "",
+          "liveStreamsUpdateTime": 3600,
+          "liveCategoriesUpdTime": 3600,
+          "moviesStreamsUpdTime": 3600,
+          "moviesCategoriesUpdTime": 3600,
+          "seriesStreamsUpdTime": 3600,
+          "seriesCategoriesUpdTime": 3600,
+          "liveStreamHistoryLimit": 50,
+          "homeScreenUpdateTime": 3600,
+          "epgUpdateTime": 86400,
+          "refreshContentTime": 60,
+          "applicationUrl": "http://abdu5.store:80/player_api.php"
         },
         "encrypted_string_vpn": {
           "vpnEnabled": false,
