@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "schema_version": 1
+  },
+  "rebrands": {
+    "falcontvplayeradm5": {
+      "platform": "5g",
+      "version": 1,
+      "rc": {
+        "activity": "http://android.abdu5.store:80/iptv/V6APK/API-V6APK.php",
+        "domains_pool": [
+          "http://android.abdu5.store:80/iptv/V6APK/API-V6APK.php"
+        ],
+        "firebase": {
+          "apiKey": "AIzaSyCRMyI8DhNDsBc7TyitSXnhtWa4CQ-NxeY",
+          "appId": "1:752405815754:android:069c99d15a6224b8122f33",
+          "projectId": "xapp-falcontvplayeradm5-ee870",
+          "senderId": "752405815754"
+        }
+      }
+    }
+  }
+}
