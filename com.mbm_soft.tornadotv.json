@@ -5,7 +5,7 @@
   "rebrands": {
     "tornadotvadm2": {
       "platform": "quick4k",
-      "version": 11,
+      "version": 12,
       "rc": {
         "encrypted_string": {
           "useragent": "Mozilla/5.0 (Linux; Android 12; SM) AppleWebKit/537.36",
@@ -15,7 +15,7 @@
           "country": "",
           "userpassServers": [
             {
-              "host": "https://t-app2.site/player_api.php"
+              "host": "http://t-app2.site/player_api.php"
             }
           ],
           "codeServers": [
@@ -36,7 +36,7 @@
           "homeScreenUpdateTime": 3600,
           "epgUpdateTime": 86400,
           "refreshContentTime": 60,
-          "applicationUrl": "https://t-app2.site/player_api.php"
+          "applicationUrl": "http://t-app2.site/player_api.php"
         },
         "encrypted_string_vpn": {
           "vpnEnabled": false,
