@@ -5,10 +5,10 @@
   "rebrands": {
     "falcontvplayeradm5": {
       "platform": "5g",
-      "version": 5,
+      "version": 6,
       "rc": {
         "activity": "http://android.abdu5.store:80/iptv/V6APK/API-V6APK.php",
-        "m3uUrlEnabled": false,
+        "m3uUrlEnabled": true,
         "domains_pool": [
           "http://android.abdu5.store:80/iptv/V6APK/API-V6APK.php"
         ],
