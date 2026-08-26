@@ -5,11 +5,12 @@
   "rebrands": {
     "tornadotvadm2": {
       "platform": "quick4k",
-      "version": 12,
+      "version": 13,
       "rc": {
         "encrypted_string": {
           "useragent": "Mozilla/5.0 (Linux; Android 12; SM) AppleWebKit/537.36",
           "codeEnabled": true,
+          "userpassAskHost": false,
           "backgroundUrl": "",
           "logoUrl": "",
           "country": "",
