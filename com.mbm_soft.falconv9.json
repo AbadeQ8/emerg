@@ -5,12 +5,12 @@
   "rebrands": {
     "falcontvproadm4": {
       "platform": "quick4k",
-      "version": 11,
+      "version": 12,
       "rc": {
         "encrypted_string": {
           "useragent": "Mozilla/5.0 (Linux; Android 12; SM) AppleWebKit/537.36",
           "codeEnabled": true,
-          "userpassAskHost": false,
+          "userpassAskHost": true,
           "backgroundUrl": "",
           "logoUrl": "",
           "country": "",
