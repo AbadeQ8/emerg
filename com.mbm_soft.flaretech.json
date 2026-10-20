@@ -1,0 +1,70 @@
+{
+  "_meta": {
+    "schema_version": 1
+  },
+  "rebrands": {
+    "flaretechplayeradm6": {
+      "platform": "quick4k",
+      "version": 1,
+      "rc": {
+        "encrypted_string": {
+          "useragent": "Mozilla/5.0 (Linux; Android 12; SM) AppleWebKit/537.36",
+          "codeEnabled": true,
+          "userpassAskHost": false,
+          "backgroundUrl": "",
+          "logoUrl": "",
+          "country": "",
+          "userpassServers": [
+            {
+              "host": "http://t-app1.site/player_api.php"
+            }
+          ],
+          "codeServers": [
+            {
+              "host": "https://android.tornado-pro.xyz/iptv/v6/API-V6APK.php",
+              "xor": "G83NTB/jc6Q6FV|Hogv.NJ"
+            }
+          ],
+          "applicationLockPassword": "0000",
+          "epgUrl": "",
+          "liveStreamsUpdateTime": 3600,
+          "liveCategoriesUpdTime": 3600,
+          "moviesStreamsUpdTime": 3600,
+          "moviesCategoriesUpdTime": 3600,
+          "seriesStreamsUpdTime": 3600,
+          "seriesCategoriesUpdTime": 3600,
+          "liveStreamHistoryLimit": 50,
+          "homeScreenUpdateTime": 3600,
+          "epgUpdateTime": 86400,
+          "refreshContentTime": 60,
+          "applicationUrl": "http://t-app1.site/player_api.php"
+        },
+        "encrypted_string_vpn": {
+          "vpnEnabled": false,
+          "vpnServers": []
+        },
+        "encrypted_string_domains": [
+          {
+            "dom": "https://android.tornado-pro.xyz/iptv/v6/API-V6APK.php",
+            "url": "https://android.tornado-pro.xyz/iptv/v6/API-V6APK.php",
+            "userAgent": "Mozilla/5.0 (Linux; Android 12; SM) AppleWebKit/537.36"
+          }
+        ],
+        "encrypted_string_app": {
+          "checkUpdate": false,
+          "appVersion": 1,
+          "appUrl": ""
+        },
+        "domains_pool": [
+          "https://android.tornado-pro.xyz/iptv/v6/API-V6APK.php"
+        ],
+        "firebase": {
+          "apiKey": "AIzaSyBh-oxVJOrRxtMs9Z2shrGlJM6htiuLJz8",
+          "appId": "1:757746604090:android:8450e4bade1426f5a63d03",
+          "projectId": "xapp-flaretechplayeradm-832c6",
+          "senderId": "757746604090"
+        }
+      }
+    }
+  }
+}
