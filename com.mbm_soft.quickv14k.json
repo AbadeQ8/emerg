@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "schema_version": 1
+  },
+  "rebrands": {
+    "quick4kv1adm8": {
+      "platform": "5g",
+      "version": 1,
+      "rc": {
+        "activity": "http://android.quick4k.online/iptv/V6APK/API-V6APK.php",
+        "m3uUrlEnabled": false,
+        "domains_pool": [
+          "http://android.quick4k.online/iptv/V6APK/API-V6APK.php"
+        ],
+        "firebase": {
+          "apiKey": "AIzaSyAK84TPQtX7ZkpOvbQK8qiqYOcV7VL1J94",
+          "appId": "1:51046815193:android:771be9ebe7ee5616cfb5c8",
+          "projectId": "xapp-quick4kv1adm8-fc996",
+          "senderId": "51046815193"
+        }
+      }
+    }
+  }
+}
