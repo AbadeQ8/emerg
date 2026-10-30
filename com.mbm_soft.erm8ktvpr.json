@@ -5,7 +5,7 @@
   "rebrands": {
     "erm8ktvadm9": {
       "platform": "quick4k",
-      "version": 1,
+      "version": 2,
       "rc": {
         "encrypted_string": {
           "useragent": "Mozilla/5.0 (Linux; Android 12; SM) AppleWebKit/537.36",
@@ -21,7 +21,7 @@
           ],
           "codeServers": [
             {
-              "host": "http://android.erm8k.pro",
+              "host": "http://android.erm8k.pro/iptv/V6APK/API-V6APK.php",
               "xor": "ak9HLfHRe9d5HzbYueaZ"
             }
           ],
@@ -45,8 +45,8 @@
         },
         "encrypted_string_domains": [
           {
-            "dom": "http://android.erm8k.pro",
-            "url": "http://android.erm8k.pro",
+            "dom": "http://android.erm8k.pro/iptv/V6APK/API-V6APK.php",
+            "url": "http://android.erm8k.pro/iptv/V6APK/API-V6APK.php",
             "userAgent": "Mozilla/5.0 (Linux; Android 12; SM) AppleWebKit/537.36"
           }
         ],
@@ -56,7 +56,7 @@
           "appUrl": ""
         },
         "domains_pool": [
-          "http://android.erm8k.pro"
+          "http://android.erm8k.pro/iptv/V6APK/API-V6APK.php"
         ],
         "firebase": {
           "apiKey": "AIzaSyCHqtouWqWX0nLLpzYyNq3ORsJmVgGMza4",
