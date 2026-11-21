@@ -1,0 +1,24 @@
+{
+  "_meta": {
+    "schema_version": 1
+  },
+  "rebrands": {
+    "eliaapro1adm10": {
+      "platform": "5g",
+      "version": 1,
+      "rc": {
+        "activity": "http://android.erm8k.pro/iptv/V6APK/API-V6APK.php",
+        "m3uUrlEnabled": false,
+        "domains_pool": [
+          "http://android.erm8k.pro/iptv/V6APK/API-V6APK.php"
+        ],
+        "firebase": {
+          "apiKey": "AIzaSyBBNAUhSo80XfFRz_G14c7HlDN1JeWUPIo",
+          "appId": "1:746947738108:android:d29f46de3aa836d2c01a79",
+          "projectId": "xapp-eliaapro1adm10-ecc71",
+          "senderId": "746947738108"
+        }
+      }
+    }
+  }
+}
