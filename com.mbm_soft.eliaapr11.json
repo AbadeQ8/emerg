@@ -1,0 +1,70 @@
+{
+  "_meta": {
+    "schema_version": 1
+  },
+  "rebrands": {
+    "eliaapro2adm11": {
+      "platform": "quick4k",
+      "version": 1,
+      "rc": {
+        "encrypted_string": {
+          "useragent": "Mozilla/5.0 (Linux; Android 12; SM) AppleWebKit/537.36",
+          "codeEnabled": true,
+          "userpassAskHost": false,
+          "backgroundUrl": "",
+          "logoUrl": "",
+          "country": "",
+          "userpassServers": [
+            {
+              "host": "http://erm8k.pro/player_api.php"
+            }
+          ],
+          "codeServers": [
+            {
+              "host": "http://android.erm8k.pro/iptv/V6APK/API-V6APK.php",
+              "xor": "ak9HLfHRe9d5HzbYueaZ"
+            }
+          ],
+          "applicationLockPassword": "0000",
+          "epgUrl": "",
+          "liveStreamsUpdateTime": 3600,
+          "liveCategoriesUpdTime": 3600,
+          "moviesStreamsUpdTime": 3600,
+          "moviesCategoriesUpdTime": 3600,
+          "seriesStreamsUpdTime": 3600,
+          "seriesCategoriesUpdTime": 3600,
+          "liveStreamHistoryLimit": 50,
+          "homeScreenUpdateTime": 3600,
+          "epgUpdateTime": 86400,
+          "refreshContentTime": 60,
+          "applicationUrl": "http://erm8k.pro/player_api.php"
+        },
+        "encrypted_string_vpn": {
+          "vpnEnabled": false,
+          "vpnServers": []
+        },
+        "encrypted_string_domains": [
+          {
+            "dom": "http://android.erm8k.pro/iptv/V6APK/API-V6APK.php",
+            "url": "http://android.erm8k.pro/iptv/V6APK/API-V6APK.php",
+            "userAgent": "Mozilla/5.0 (Linux; Android 12; SM) AppleWebKit/537.36"
+          }
+        ],
+        "encrypted_string_app": {
+          "checkUpdate": false,
+          "appVersion": 1,
+          "appUrl": ""
+        },
+        "domains_pool": [
+          "http://android.erm8k.pro/iptv/V6APK/API-V6APK.php"
+        ],
+        "firebase": {
+          "apiKey": "AIzaSyA8P9X0npp-LCvDCWcQUWVVS31QyyI9vqc",
+          "appId": "1:107389568412:android:ea345a3ab8b114c1def459",
+          "projectId": "xapp-eliaapro2adm11-f9cb3",
+          "senderId": "107389568412"
+        }
+      }
+    }
+  }
+}
